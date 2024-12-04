@@ -1,4 +1,4 @@
-<h1>Hi, I'm Antonio, an <a href="https://www.linkedin.com/in/antonio-deas-149387164/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/antonio-deas-149387164/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -13,8 +13,8 @@
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.linkedin.com/in/antonio-deas-149387164/" />][linkedin]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
-[linkedin]: "https://www.linkedin.com/in/antonio-deas-149387164/"
+[linkedin]: https://www.linkedin.com/in/antonio-deas-149387164/
