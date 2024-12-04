@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/antonio-deas-149387164/
+[linkedin]: "https://www.linkedin.com/in/antonio-deas-149387164/"
