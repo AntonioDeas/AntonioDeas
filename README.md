@@ -22,7 +22,7 @@
 
 <a href="https://discord.gg/AntonioDeas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AntonioDeas" height="30" width="40" /></a> 🔨 🔝 
 
-![](https://github-readme-stats.vercel.app/api?username=AntonioDeas&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AntonioDeas&theme=radical&hide_border=false)<br/>
 
 ### 
