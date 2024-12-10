@@ -18,9 +18,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/antonio-deas-149387164/
-
-
-<a href="https://discord.gg/AntonioDeas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AntonioDeas" height="30" width="40" /></a> 🔨 🔝 
+🔨 🔝 
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AntonioDeas&theme=radical&hide_border=false)<br/>
